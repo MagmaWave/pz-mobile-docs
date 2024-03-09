@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpz_mobile=self.webpackChunkpz_mobile||[]).push([[68],{2130:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/boas-vindas","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

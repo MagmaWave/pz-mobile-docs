@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://magmawave.github.io/blog</id>
+    <title>Magma Wave Blog</title>
+    <updated>2024-03-09T03:54:32.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://magmawave.github.io/blog"/>
+    <subtitle>Magma Wave Blog</subtitle>
+    <icon>https://magmawave.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bem-vindos]]></title>
+        <id>https://magmawave.github.io/blog/bem-vindo</id>
+        <link href="https://magmawave.github.io/blog/bem-vindo"/>
+        <updated>2024-03-09T03:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Olá! Boas vindas a todos. Este é um espaço reservado para compartilhar as novidades e conhecimentos.]]></summary>
+        <content type="html"><![CDATA[<p>Olá! Boas vindas a todos. Este é um espaço reservado para compartilhar as novidades e conhecimentos.</p>
+<p>No momento as coisas ainda estão um pouco vazias por aqui mas espero que isso mude em breve.</p>
+<p>Espero que em um futuro próximo este seja não somente um local de compartilhamento de conhecimentos mas também um espaço para falar abertamente.</p>
+<p>Vejo vocês em breve!</p>]]></content>
+        <author>
+            <name>Jander Gois</name>
+            <uri>https://instragram.com/eujandergois</uri>
+        </author>
+        <category label="boas vindas" term="boas vindas"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimas Novidades]]></title>
+        <id>https://magmawave.github.io/blog/last-changes</id>
+        <link href="https://magmawave.github.io/blog/last-changes"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus Plushie]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://magmawave.github.io/assets/images/checklist-6b6a4b5d6de2efeb93d7ecc40c8a8f52.jpg" width="6720" height="4480" class="img_ev3q"></p>
+<p>Nas ultimas semanas de trabalho obtivemos avanço significativo e aqui vai uma lista de algumas coisas que conseguimos fazer:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="melhorias">Melhorias<a href="https://magmawave.github.io/blog/last-changes#melhorias" class="hash-link" aria-label="Direct link to Melhorias" title="Direct link to Melhorias">​</a></h2>
+<ul>
+<li>Melhorias relacionadas aos Scripts.</li>
+<li>Melhorias de organização.</li>
+<li>Melhorias e implementações na interface de usuário.</li>
+<li>Realizados diversos testes de funcionamento e implementações.</li>
+<li>Primeiros testes realizados em ambiente android.</li>
+<li>Realizados testes e estudos de uso para implementação de mecanicas dos interiores.</li>
+<li>Realizados diversas melhorias relacionadas aos tilemaps, palletes e mapa.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementações">Implementações<a href="https://magmawave.github.io/blog/last-changes#implementa%C3%A7%C3%B5es" class="hash-link" aria-label="Direct link to Implementações" title="Direct link to Implementações">​</a></h2>
+<ul>
+<li>Criada documentação do projeto para compartilhamento de conhecimento e informações.</li>
+<li>Criado e documentado sistema de gerenciamento e mapeamento dos assets e paths.</li>
+<li>Adicionado sistema de posicionamento e disposição dos elementos da interface por meio do editor.</li>
+<li>Adicionado movimentação por meio de joystick.</li>
+<li>Adicionado e configurado diversos parametros de build e teste em ambiente android.</li>
+<li>Implementado sistema de adição de propriedades dos items e sua devida documentação de uso e funcionamento.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="correções">Correções<a href="https://magmawave.github.io/blog/last-changes#corre%C3%A7%C3%B5es" class="hash-link" aria-label="Direct link to Correções" title="Direct link to Correções">​</a></h2>
+<ul>
+<li>Corrigido erros de importação.</li>
+<li>Corrigidos alguns erros do mapa.</li>
+<li>Corrigidos aspectos de física, movimentação e colisão.</li>
+<li>Corrigidas diversas falhas relacionadas ao minimapa.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trabalhos-em-progresso">Trabalhos em progresso<a href="https://magmawave.github.io/blog/last-changes#trabalhos-em-progresso" class="hash-link" aria-label="Direct link to Trabalhos em progresso" title="Direct link to Trabalhos em progresso">​</a></h2>
+<ul>
+<li>Mecanicas de interiores. <img decoding="async" loading="lazy" src="https://progress-bar.dev/28/" alt="" class="img_ev3q"></li>
+<li>HUD e UI (User Interface) <img decoding="async" loading="lazy" src="https://progress-bar.dev/69/" alt="" class="img_ev3q"></li>
+</ul>]]></content>
+        <author>
+            <name>Jander Gois</name>
+            <uri>https://instragram.com/eujandergois</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="noticias" term="noticias"/>
+        <category label="novidades" term="novidades"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpz_mobile=self.webpackChunkpz_mobile||[]).push([[671],{5428:s=>{s.exports=JSON.parse('{"label":"noticias","permalink":"/blog/tags/noticias","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
