@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpz_mobile=self.webpackChunkpz_mobile||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bem-vindos","permalink":"/pz-mobile-docs/blog/bem-vindo","unlisted":false},{"title":"Ultimas Novidades","permalink":"/pz-mobile-docs/blog/last-changes","unlisted":false}]}')}}]);

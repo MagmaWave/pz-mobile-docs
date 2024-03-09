@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Magma Wave Blog</title>
+        <link>https://magmawave.github.io/pz-mobile-docs/blog</link>
+        <description>Magma Wave Blog</description>
+        <lastBuildDate>Sat, 09 Mar 2024 03:54:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Bem-vindos]]></title>
+            <link>https://magmawave.github.io/pz-mobile-docs/blog/bem-vindo</link>
+            <guid>https://magmawave.github.io/pz-mobile-docs/blog/bem-vindo</guid>
+            <pubDate>Sat, 09 Mar 2024 03:54:32 GMT</pubDate>
+            <description><![CDATA[Olá! Boas vindas a todos. Este é um espaço reservado para compartilhar as novidades e conhecimentos.]]></description>
+            <content:encoded><![CDATA[<p>Olá! Boas vindas a todos. Este é um espaço reservado para compartilhar as novidades e conhecimentos.</p>
+<p>No momento as coisas ainda estão um pouco vazias por aqui mas espero que isso mude em breve.</p>
+<p>Espero que em um futuro próximo este seja não somente um local de compartilhamento de conhecimentos mas também um espaço para falar abertamente.</p>
+<p>Vejo vocês em breve!</p>]]></content:encoded>
+            <category>boas vindas</category>
+        </item>
+        <item>
+            <title><![CDATA[Ultimas Novidades]]></title>
+            <link>https://magmawave.github.io/pz-mobile-docs/blog/last-changes</link>
+            <guid>https://magmawave.github.io/pz-mobile-docs/blog/last-changes</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus Plushie]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://magmawave.github.io/pz-mobile-docs/assets/images/checklist-6b6a4b5d6de2efeb93d7ecc40c8a8f52.jpg" width="6720" height="4480" class="img_ev3q"></p>
+<p>Nas ultimas semanas de trabalho obtivemos avanço significativo e aqui vai uma lista de algumas coisas que conseguimos fazer:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="melhorias">Melhorias<a href="https://magmawave.github.io/pz-mobile-docs/blog/last-changes#melhorias" class="hash-link" aria-label="Direct link to Melhorias" title="Direct link to Melhorias">​</a></h2>
+<ul>
+<li>Melhorias relacionadas aos Scripts.</li>
+<li>Melhorias de organização.</li>
+<li>Melhorias e implementações na interface de usuário.</li>
+<li>Realizados diversos testes de funcionamento e implementações.</li>
+<li>Primeiros testes realizados em ambiente android.</li>
+<li>Realizados testes e estudos de uso para implementação de mecanicas dos interiores.</li>
+<li>Realizados diversas melhorias relacionadas aos tilemaps, palletes e mapa.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementações">Implementações<a href="https://magmawave.github.io/pz-mobile-docs/blog/last-changes#implementa%C3%A7%C3%B5es" class="hash-link" aria-label="Direct link to Implementações" title="Direct link to Implementações">​</a></h2>
+<ul>
+<li>Criada documentação do projeto para compartilhamento de conhecimento e informações.</li>
+<li>Criado e documentado sistema de gerenciamento e mapeamento dos assets e paths.</li>
+<li>Adicionado sistema de posicionamento e disposição dos elementos da interface por meio do editor.</li>
+<li>Adicionado movimentação por meio de joystick.</li>
+<li>Adicionado e configurado diversos parametros de build e teste em ambiente android.</li>
+<li>Implementado sistema de adição de propriedades dos items e sua devida documentação de uso e funcionamento.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="correções">Correções<a href="https://magmawave.github.io/pz-mobile-docs/blog/last-changes#corre%C3%A7%C3%B5es" class="hash-link" aria-label="Direct link to Correções" title="Direct link to Correções">​</a></h2>
+<ul>
+<li>Corrigido erros de importação.</li>
+<li>Corrigidos alguns erros do mapa.</li>
+<li>Corrigidos aspectos de física, movimentação e colisão.</li>
+<li>Corrigidas diversas falhas relacionadas ao minimapa.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="trabalhos-em-progresso">Trabalhos em progresso<a href="https://magmawave.github.io/pz-mobile-docs/blog/last-changes#trabalhos-em-progresso" class="hash-link" aria-label="Direct link to Trabalhos em progresso" title="Direct link to Trabalhos em progresso">​</a></h2>
+<ul>
+<li>Mecanicas de interiores. <img decoding="async" loading="lazy" src="https://progress-bar.dev/28/" alt="" class="img_ev3q"></li>
+<li>HUD e UI (User Interface) <img decoding="async" loading="lazy" src="https://progress-bar.dev/69/" alt="" class="img_ev3q"></li>
+</ul>]]></content:encoded>
+            <category>news</category>
+            <category>noticias</category>
+            <category>novidades</category>
+        </item>
+    </channel>
+</rss>

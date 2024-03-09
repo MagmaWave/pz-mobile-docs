@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpz_mobile=self.webpackChunkpz_mobile||[]).push([[158],{9411:s=>{s.exports=JSON.parse('{"label":"boas vindas","permalink":"/pz-mobile-docs/blog/tags/boas-vindas","allTagsPath":"/pz-mobile-docs/blog/tags","count":1,"unlisted":false}')}}]);

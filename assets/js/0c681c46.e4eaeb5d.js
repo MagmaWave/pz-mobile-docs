@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpz_mobile=self.webpackChunkpz_mobile||[]).push([[104],{7021:s=>{s.exports=JSON.parse('{"label":"noticias","permalink":"/pz-mobile-docs/blog/tags/noticias","allTagsPath":"/pz-mobile-docs/blog/tags","count":1,"unlisted":false}')}}]);
